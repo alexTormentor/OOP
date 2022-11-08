@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Mech2\bin\Debug\Mech2.exe.config
+C:\Users\Alex\source\repos\Mech2\bin\Debug\Mech2.exe
+C:\Users\Alex\source\repos\Mech2\bin\Debug\Mech2.pdb
+C:\Users\Alex\source\repos\Mech2\obj\Debug\Mech2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Mech2\obj\Debug\Mech2.exe
+C:\Users\Alex\source\repos\Mech2\obj\Debug\Mech2.pdb
+C:\Users\Alex\source\repos\Mech2\obj\Debug\Mech2.csproj.AssemblyReference.cache
