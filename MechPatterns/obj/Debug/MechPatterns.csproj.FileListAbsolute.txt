@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\MechPatterns\bin\Debug\MechPatterns.exe.config
+C:\Users\Alex\source\repos\MechPatterns\bin\Debug\MechPatterns.exe
+C:\Users\Alex\source\repos\MechPatterns\bin\Debug\MechPatterns.pdb
+C:\Users\Alex\source\repos\MechPatterns\obj\Debug\MechPatterns.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\MechPatterns\obj\Debug\MechPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MechPatterns\obj\Debug\MechPatterns.exe
+C:\Users\Alex\source\repos\MechPatterns\obj\Debug\MechPatterns.pdb
