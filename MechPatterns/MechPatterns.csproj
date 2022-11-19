@@ -12,6 +12,7 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -35,6 +36,9 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -43,32 +47,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BattleTest.cs" />
-    <Compile Include="CodeCommand.cs" />
-    <Compile Include="Corpus.cs" />
-    <Compile Include="Engine.cs" />
-    <Compile Include="FCompany.cs" />
-    <Compile Include="FGunDeveloper.cs" />
-    <Compile Include="FMechDeveloper.cs" />
-    <Compile Include="FGun.cs" />
-    <Compile Include="FMGun.cs" />
-    <Compile Include="FM_Weapon.cs" />
-    <Compile Include="FPGun.cs" />
+    <Compile Include="Adutante.cs" />
+    <Compile Include="Command.cs" />
+    <Compile Include="CommandArithm.cs" />
+    <Compile Include="FacadeCorpus.cs" />
+    <Compile Include="FacadeEngine.cs" />
+    <Compile Include="FabricCompany.cs" />
+    <Compile Include="FabricGunDeveloper.cs" />
+    <Compile Include="FabricFMechDeveloper.cs" />
+    <Compile Include="FabricGun.cs" />
+    <Compile Include="FabricFMGun.cs" />
+    <Compile Include="FabricFM_Weapon.cs" />
+    <Compile Include="FabricFPGun.cs" />
     <Compile Include="ICommand.cs" />
-    <Compile Include="Macrocommand.cs" />
-    <Compile Include="Mech.cs" />
-    <Compile Include="MechCommand.cs" />
-    <Compile Include="MechFabric.cs" />
-    <Compile Include="MechFacade.cs" />
-    <Compile Include="Pilot.cs" />
+    <Compile Include="FabricMech.cs" />
+    <Compile Include="FacadeMech.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tech.cs" />
-    <Compile Include="TechCommand.cs" />
-    <Compile Include="Tooling.cs" />
+    <Compile Include="FacadeTooling.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
