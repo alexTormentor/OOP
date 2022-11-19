@@ -10,9 +10,9 @@ namespace MechPatterns_v2
     {
         static void Main(string[] args)
         {
-            MechFabric mecha = new MechFabric();                                // 
-            FM_Weapon arsenal = new FM_Weapon("Рельсотрон-2000", "Гроза С-14");                                // 
-            MechCreateCommand mechCreateCommand = new MechCreateCommand();      // 
+            MechFabric mecha = new MechFabric();                                // фасад
+            FM_Weapon arsenal = new FM_Weapon("Рельсотрон-2000", "Гроза С-14");                                // фабрика
+            MechCreateCommand mechCreateCommand = new MechCreateCommand();      // команда
             Console.Read();
         }
     }
