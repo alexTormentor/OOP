@@ -23,6 +23,7 @@ namespace Mech2
                 Console.Write('#');
             }
             Console.Write("\n\n\n");
+            Console.Write("\n\n\n");
         }
 
         ~Machine() { }
