@@ -1,0 +1,372 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_Runner\\MechSOLID_Runner.csproj": {}
+  },
+  "projects": {
+    "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID\\MechSOLID.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID\\MechSOLID.csproj",
+        "projectName": "MechSOLID",
+        "projectPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID\\MechSOLID.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_D\\MechSOLID_D.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_D\\MechSOLID_D.csproj",
+        "projectName": "MechSOLID_D",
+        "projectPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_D\\MechSOLID_D.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_D\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_I\\MechSOLID_I.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_I\\MechSOLID_I.csproj",
+        "projectName": "MechSOLID_I",
+        "projectPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_I\\MechSOLID_I.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_I\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_L\\MechSOLID_L.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_L\\MechSOLID_L.csproj",
+        "projectName": "MechSOLID_L",
+        "projectPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_L\\MechSOLID_L.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_L\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_O\\MechSOLID_O.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_O\\MechSOLID_O.csproj",
+        "projectName": "MechSOLID_O",
+        "projectPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_O\\MechSOLID_O.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_O\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_Runner\\MechSOLID_Runner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_Runner\\MechSOLID_Runner.csproj",
+        "projectName": "MechSOLID_Runner",
+        "projectPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_Runner\\MechSOLID_Runner.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_Runner\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID\\MechSOLID.csproj": {
+                "projectPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID\\MechSOLID.csproj"
+              },
+              "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_D\\MechSOLID_D.csproj": {
+                "projectPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_D\\MechSOLID_D.csproj"
+              },
+              "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_I\\MechSOLID_I.csproj": {
+                "projectPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_I\\MechSOLID_I.csproj"
+              },
+              "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_L\\MechSOLID_L.csproj": {
+                "projectPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_L\\MechSOLID_L.csproj"
+              },
+              "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_O\\MechSOLID_O.csproj": {
+                "projectPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_O\\MechSOLID_O.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

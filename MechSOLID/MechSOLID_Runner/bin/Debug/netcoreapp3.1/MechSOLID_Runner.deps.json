@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MechSOLID_Runner/1.0.0": {
+        "dependencies": {
+          "MechSOLID": "1.0.0",
+          "MechSOLID_D": "1.0.0",
+          "MechSOLID_I": "1.0.0",
+          "MechSOLID_L": "1.0.0",
+          "MechSOLID_O": "1.0.0"
+        },
+        "runtime": {
+          "MechSOLID_Runner.dll": {}
+        }
+      },
+      "MechSOLID/1.0.0": {
+        "runtime": {
+          "MechSOLID.dll": {}
+        }
+      },
+      "MechSOLID_D/1.0.0": {
+        "runtime": {
+          "MechSOLID_D.dll": {}
+        }
+      },
+      "MechSOLID_I/1.0.0": {
+        "runtime": {
+          "MechSOLID_I.dll": {}
+        }
+      },
+      "MechSOLID_L/1.0.0": {
+        "runtime": {
+          "MechSOLID_L.dll": {}
+        }
+      },
+      "MechSOLID_O/1.0.0": {
+        "runtime": {
+          "MechSOLID_O.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MechSOLID_Runner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MechSOLID/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MechSOLID_D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MechSOLID_I/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MechSOLID_L/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MechSOLID_O/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

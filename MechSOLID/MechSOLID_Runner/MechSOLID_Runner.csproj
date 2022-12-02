@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MechSOLID\MechSOLID.csproj" />
+    <ProjectReference Include="..\MechSOLID_D\MechSOLID_D.csproj" />
+    <ProjectReference Include="..\MechSOLID_I\MechSOLID_I.csproj" />
+    <ProjectReference Include="..\MechSOLID_L\MechSOLID_L.csproj" />
+    <ProjectReference Include="..\MechSOLID_O\MechSOLID_O.csproj" />
+  </ItemGroup>
+
+</Project>

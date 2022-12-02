@@ -1,0 +1,171 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MechSOLID/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MechSOLID.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MechSOLID.dll": {}
+        }
+      },
+      "MechSOLID_D/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MechSOLID_D.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MechSOLID_D.dll": {}
+        }
+      },
+      "MechSOLID_I/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MechSOLID_I.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MechSOLID_I.dll": {}
+        }
+      },
+      "MechSOLID_L/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MechSOLID_L.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MechSOLID_L.dll": {}
+        }
+      },
+      "MechSOLID_O/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MechSOLID_O.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MechSOLID_O.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MechSOLID/1.0.0": {
+      "type": "project",
+      "path": "../MechSOLID/MechSOLID.csproj",
+      "msbuildProject": "../MechSOLID/MechSOLID.csproj"
+    },
+    "MechSOLID_D/1.0.0": {
+      "type": "project",
+      "path": "../MechSOLID_D/MechSOLID_D.csproj",
+      "msbuildProject": "../MechSOLID_D/MechSOLID_D.csproj"
+    },
+    "MechSOLID_I/1.0.0": {
+      "type": "project",
+      "path": "../MechSOLID_I/MechSOLID_I.csproj",
+      "msbuildProject": "../MechSOLID_I/MechSOLID_I.csproj"
+    },
+    "MechSOLID_L/1.0.0": {
+      "type": "project",
+      "path": "../MechSOLID_L/MechSOLID_L.csproj",
+      "msbuildProject": "../MechSOLID_L/MechSOLID_L.csproj"
+    },
+    "MechSOLID_O/1.0.0": {
+      "type": "project",
+      "path": "../MechSOLID_O/MechSOLID_O.csproj",
+      "msbuildProject": "../MechSOLID_O/MechSOLID_O.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MechSOLID >= 1.0.0",
+      "MechSOLID_D >= 1.0.0",
+      "MechSOLID_I >= 1.0.0",
+      "MechSOLID_L >= 1.0.0",
+      "MechSOLID_O >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alex\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_Runner\\MechSOLID_Runner.csproj",
+      "projectName": "MechSOLID_Runner",
+      "projectPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_Runner\\MechSOLID_Runner.csproj",
+      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+      "outputPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_Runner\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID\\MechSOLID.csproj": {
+              "projectPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID\\MechSOLID.csproj"
+            },
+            "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_D\\MechSOLID_D.csproj": {
+              "projectPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_D\\MechSOLID_D.csproj"
+            },
+            "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_I\\MechSOLID_I.csproj": {
+              "projectPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_I\\MechSOLID_I.csproj"
+            },
+            "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_L\\MechSOLID_L.csproj": {
+              "projectPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_L\\MechSOLID_L.csproj"
+            },
+            "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_O\\MechSOLID_O.csproj": {
+              "projectPath": "D:\\FileSet\\GitLabs\\OOP\\MechSOLID\\MechSOLID_O\\MechSOLID_O.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

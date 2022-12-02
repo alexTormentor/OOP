@@ -1,0 +1,14 @@
+D:\FileSet\GitLabs\OOP\MechSOLID\MechSOLID_O\bin\Debug\netcoreapp3.1\MechSOLID_O.exe
+D:\FileSet\GitLabs\OOP\MechSOLID\MechSOLID_O\bin\Debug\netcoreapp3.1\MechSOLID_O.deps.json
+D:\FileSet\GitLabs\OOP\MechSOLID\MechSOLID_O\bin\Debug\netcoreapp3.1\MechSOLID_O.runtimeconfig.json
+D:\FileSet\GitLabs\OOP\MechSOLID\MechSOLID_O\bin\Debug\netcoreapp3.1\MechSOLID_O.runtimeconfig.dev.json
+D:\FileSet\GitLabs\OOP\MechSOLID\MechSOLID_O\bin\Debug\netcoreapp3.1\MechSOLID_O.dll
+D:\FileSet\GitLabs\OOP\MechSOLID\MechSOLID_O\bin\Debug\netcoreapp3.1\MechSOLID_O.pdb
+D:\FileSet\GitLabs\OOP\MechSOLID\MechSOLID_O\obj\Debug\netcoreapp3.1\MechSOLID_O.csproj.AssemblyReference.cache
+D:\FileSet\GitLabs\OOP\MechSOLID\MechSOLID_O\obj\Debug\netcoreapp3.1\MechSOLID_O.GeneratedMSBuildEditorConfig.editorconfig
+D:\FileSet\GitLabs\OOP\MechSOLID\MechSOLID_O\obj\Debug\netcoreapp3.1\MechSOLID_O.AssemblyInfoInputs.cache
+D:\FileSet\GitLabs\OOP\MechSOLID\MechSOLID_O\obj\Debug\netcoreapp3.1\MechSOLID_O.AssemblyInfo.cs
+D:\FileSet\GitLabs\OOP\MechSOLID\MechSOLID_O\obj\Debug\netcoreapp3.1\MechSOLID_O.csproj.CoreCompileInputs.cache
+D:\FileSet\GitLabs\OOP\MechSOLID\MechSOLID_O\obj\Debug\netcoreapp3.1\MechSOLID_O.dll
+D:\FileSet\GitLabs\OOP\MechSOLID\MechSOLID_O\obj\Debug\netcoreapp3.1\MechSOLID_O.pdb
+D:\FileSet\GitLabs\OOP\MechSOLID\MechSOLID_O\obj\Debug\netcoreapp3.1\MechSOLID_O.genruntimeconfig.cache
