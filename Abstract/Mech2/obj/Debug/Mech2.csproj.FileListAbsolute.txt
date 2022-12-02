@@ -19,3 +19,10 @@ D:\FileSet\GitLabs\Mech2\obj\Debug\Mech2.csproj.AssemblyReference.cache
 D:\FileSet\GitLabs\Mech2\obj\Debug\Mech2.csproj.CoreCompileInputs.cache
 D:\FileSet\GitLabs\Mech2\obj\Debug\Mech2.exe
 D:\FileSet\GitLabs\Mech2\obj\Debug\Mech2.pdb
+D:\FileSet\GitLabs\OOP\Abstract\Mech2\bin\Debug\Mech2.exe.config
+D:\FileSet\GitLabs\OOP\Abstract\Mech2\bin\Debug\Mech2.exe
+D:\FileSet\GitLabs\OOP\Abstract\Mech2\bin\Debug\Mech2.pdb
+D:\FileSet\GitLabs\OOP\Abstract\Mech2\obj\Debug\Mech2.csproj.AssemblyReference.cache
+D:\FileSet\GitLabs\OOP\Abstract\Mech2\obj\Debug\Mech2.csproj.CoreCompileInputs.cache
+D:\FileSet\GitLabs\OOP\Abstract\Mech2\obj\Debug\Mech2.exe
+D:\FileSet\GitLabs\OOP\Abstract\Mech2\obj\Debug\Mech2.pdb
